@@ -1,5 +1,5 @@
 # bash-scripts
-Here you found basic scripts for make your live easy...
+Here you find basic scripts for make your live easy...
 
 
 checkurl.sh
